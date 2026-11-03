@@ -4,7 +4,7 @@
 
 ## Contexte
 
-✏️ *En cinq à huit phrases : qui utilise l'outil (son métier, son geste professionnel), son besoin, ce qu'il saisit, ce que le programme lui affiche, ce que l'outil ne fait pas.*
+L'outil s'adresse au responsable d'une pépinière pédagogique, qui observe les étiquettes et les organes des plants, reproduit la classification botanique fournie, compte les plants et note la date du relevé. Son inventaire est dispersé, et il veut retrouver une espèce, lire son groupe botanique et voir les quantités disponibles. Pour chaque espèce, l'utilisateur saisit cinq champs (id, nom commun, groupe, nombre de plants et date du relevé). Les saisies invalides sont refusées. Le programme affiche la liste de l'inventaire, permet de rechercher par code, nom ou groupe, de trier par nombre de plants, et donne une synthèse. L'outil ne reconnaît pas lui-même l'espèce ni son groupe à partir des organes.
 
 ## Prérequis et lancement
 
