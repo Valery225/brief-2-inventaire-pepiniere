@@ -68,5 +68,12 @@
     "groupe": "gymnosperme",
     "nombrePlants": 10,
     "dateReleve": "2026-10-24"
+  },
+  {
+    "id": "N12",
+    "nomCommun": "soja",
+    "groupe": "gymnosperme",
+    "nombrePlants": 80,
+    "dateReleve": "2025-11-11"
   }
 ]
