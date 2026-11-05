@@ -21,4 +21,4 @@ rôle : les fleurs servent à la reproduction de la plante
 
 **Le seuil de 10 plants dit-il qu'il faut produire davantage d'une espèce ?** Non, c'est juste un répère pédagogique
 
-Sources et origine des observations : doc/fiche-agronomique.md; observation directe des feuilles et des fleurs sur la ferme · Relu par le coach le : Oui
+Sources et origine des observations : doc/fiche-agronomique.md; observation directe des feuilles et des fleurs sur la ferme · Relu par le coach le : OUI
