@@ -8,7 +8,7 @@
 | nomCommun | Nom commun de l'espèce| texte | non vide | — |cacao |
 | groupe | Grand groupe botanique   | texte | valeur parmi la liste autorisée| — | angiosperme|
 | nombreplants |Nombre de plants en stock | nombre| entier positif ou nul |sans unité |30 |
-| dateReleve | Date du comptage des plants | | AAAA-MM-JJ | — | 2026-10-24 |
+| dateReleve | Date du comptage des plants | texte | AAAA-MM-JJ | — | 2026-10-24 |
 
 **Listes de valeurs autorisées** :
 - Groupe botanique:  angiosperme, gymnosperme.
