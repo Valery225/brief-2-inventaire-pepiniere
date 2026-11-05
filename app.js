@@ -29,10 +29,10 @@ async function main() {
   let plants = [];
 
   try {
-    console.log('============================================');
+    console.log('==================================================');
     console.log('   INVENTAIRE DE LA PÉPINIÈRE');
     console.log('   Pépinière pédagogique');
-    console.log('============================================');
+    console.log('==================================================');
 
     try {
       plants = await chargerJson(FICHIER_DONNEES);
@@ -143,8 +143,8 @@ async function main() {
                 if (texte === null) {
                   break;
                 }
-                const resultat = rechercherParNom(plants, String(texte).trim());
-                const recherche = String(texte).trim();
+                const recherche = String(texte).trim().toLowerCase();
+                const resultat = rechercherParNom(plants, recherche);
                 console.log(`${resultat.length} espèce(s) dont le nom contient « ${recherche} » :`);
                 console.log(listerPlants(resultat));
                 break;
