@@ -8,14 +8,16 @@ Plants Angiosperme : 30+45+20+50+25+18+12+22 = 222
 Plants Gymnosperme : 10+8 = 18
 **Essais dans le menu** : un ajout valide (encore là après redémarrage), chaque règle refusée, une recherche introuvable, chaque tri, la synthèse, un choix inconnu.
 
-| Action                    | Attendu                     | Obtenu                      | Testeur |
-| ------------------------- | --------------------------- | --------------------------- | ------- |
-| Calcul du stock total     | 240                         | 240                         |         |
-| Total espèces angiosperme | 8                           | 8                           |         |
-| Total plants angiosperme  | 222                         | 222                         |         |
-| Total espèces gymnosperme | 2                           | 2                           |         |
-| Total plants gymnosperme  | 18                          | 18                          |         |
-| Stock faible              | N09 N10                     | N09 N10                     |         |
-| Espèce la plus abondante  | *N04* (tomate, 50 plants) | *N04* (tomate, 50 plants) |         |
+| Action                    | Attendu                     | Obtenu                      | Testeur             |
+| ------------------------- | --------------------------- | --------------------------- | --------------------|
+| Calcul du stock total     | 240                         | 240                         |KOFFI Yao Jean Valéry|
+| Total espèces angiosperme | 8                           | 8                           |KOFFI Yao Jean Valéry|
+| Total plants angiosperme  | 222                         | 222                         |KOFFI Yao Jean Valéry|
+| Total espèces gymnosperme | 2                           | 2                           |KOFFI Yao Jean Valéry|
+| Total plants gymnosperme  | 18                          | 18                          |KOFFI Yao Jean Valéry|
+| Stock faible              | N09 N10                     | N09 N10                     |KOFFI Yao Jean Valéry|
+| Espèce la plus abondante  | *N04* (tomate, 50 plants)   | *N04* (tomate, 50 plants)   |KOFFI Yao Jean Valéry|
 
-**Sur un autre poste** (`git clone`, `node app.js`, `npm test`, en suivant le README) : ✏️
+**Sur un autre poste** (`git clone`, `node app.js`, `npm test`, en suivant le README) : 
+KONAN CEDRIC ASSIE
+KANGA JULES CHRIST
